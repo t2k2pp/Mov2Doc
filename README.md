@@ -29,8 +29,17 @@ PC操作を記録した動画は準備済みであることを想定（MP4など
 
 ## Tools
 ### 動画フレーム抽出アプリケーション
-- [セットアップと使用法](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/ToolsDocs.md)
+- [セットアップと使用法](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/ToolsDocs_01.md)
 - [Pythonコード](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/video-frame-extractor.py)
+
+### 画像連結アプリケーション
+- [セットアップと使用法](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/ToolsDocs_02.md)
+- [Pythonコード](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/image-concatenator.py)
+
+### アニメーションGIF作成アプリケーション
+- [セットアップと使用法](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/ToolsDocs_03.md)
+- [Pythonコード](https://github.com/t2k2pp/Mov2Doc/blob/main/tools/animated-gif-creator.py)
+
 
 ## その他のTools
 - PC操作を録画する方法として Power Point の録画機能を利用している
